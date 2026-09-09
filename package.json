@@ -1,0 +1,1 @@
+{"name":"movilphone-cotizador","version":"3.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test scripts/test.mjs","dev":"node scripts/serve.mjs"},"engines":{"node":">=22"}}
